@@ -5,5 +5,5 @@ TiddlyWiki5 [bug #48080][bug]: Using the external JavaScript template always bri
 
 Docker image: <https://hub.docker.com/r/phlummox/tw5-issues-4808>
 
-
+Running instance on Heroku: <https://tw5-bug-4808.herokuapp.com/>
 
